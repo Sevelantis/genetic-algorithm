@@ -1,4 +1,4 @@
-# Algorithms design techniques - Genetic Algorithm, Oskroba Miron
+# Algorithms design techniques - Genetic Algorithm
 III year Wroclaw University of Science, Electronics Department, Informatics - Oskroba Miron, student.
 
 ## HOW TO RUN .EXE
